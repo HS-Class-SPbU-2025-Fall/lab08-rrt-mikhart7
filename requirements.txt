@@ -1,0 +1,6 @@
+ipython==8.12.3
+kdtree==0.16
+matplotlib==3.10.6
+numpy==2.3.3
+pandas==2.3.2
+Shapely==2.1.1
